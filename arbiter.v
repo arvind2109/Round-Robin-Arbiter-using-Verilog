@@ -1,4 +1,4 @@
-module arbiter_main (
+module arbiter (
   clk,    
   rst,    
   req3,   
